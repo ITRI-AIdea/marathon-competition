@@ -223,7 +223,7 @@ sqlitedict==1.6.0
 srsly==0.0.7
 tblib==1.4.0
 tensorboard==1.14.0
-tensorflow==1.14.0+nv
+tensorflow==1.15.0
 tensorflow-datasets==1.1.0
 tensorflow-estimator==1.14.0
 tensorflow-hub==0.5.0
