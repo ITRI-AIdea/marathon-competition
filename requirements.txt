@@ -159,8 +159,8 @@ parso==0.5.1
 partd==1.0.0
 pexpect==4.7.0
 pickleshare==0.7.5
-Pillow==6.2.0
-Pillow-SIMD==6.0.0.post0
+Pillow==7.1.0
+Pillow-SIMD==7.0.0.post3
 pkginfo==1.5.0.1
 plac==0.9.6
 pluggy==0.12.0
