@@ -107,7 +107,7 @@ jupyter-nbextensions-configurator==0.4.1
 jupyter-server-proxy==1.1.0
 jupyter-tensorboard==0.1.10
 jupyterhub==1.0.0
-jupyterlab==1.0.5
+jupyterlab==1.2.21
 jupyterlab-git==0.8.0
 jupyterlab-server==1.0.2
 Keras==2.2.4
