@@ -34,7 +34,7 @@ conda==4.7.11
 conda-build==3.18.9
 conda-package-handling==1.4.1
 contextlib2==0.5.5
-cryptography==3.2
+cryptography==3.3.2
 cudf==0.8.0+0.g8fa7bd3.dirty
 cugraph==0.8.1+0.g258e53c.dirty
 cuml==0.8.0+0.g8126e7a.dirty
