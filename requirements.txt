@@ -149,7 +149,7 @@ nvstrings-cuda92==0.8.0
 oauthlib==3.0.1
 olefile==0.46
 opencv-contrib-python==4.1.0.25
-opencv-python==4.1.2.30
+opencv-python==4.2.0.32
 opt-einsum==3.1.0
 packaging==19.1
 pamela==1.0.0
