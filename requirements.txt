@@ -139,7 +139,7 @@ nbconvert==5.6.0
 nbdime==1.1.0
 nbformat==4.4.0
 networkx==2.3
-nltk==3.4.5
+nltk==3.6.5
 notebook==6.4.1
 numba==0.45.1
 numexpr==2.7.0
