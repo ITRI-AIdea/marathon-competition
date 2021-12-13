@@ -123,7 +123,7 @@ lightgbm==2.2.3
 llvmlite==0.29.0
 locket==0.2.0
 lws==1.2
-lxml==4.6.3
+lxml==4.6.5
 Mako==1.1.0
 Markdown==3.1.1
 MarkupSafe==1.1.1
