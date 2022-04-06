@@ -140,7 +140,7 @@ nbdime==1.1.1
 nbformat==4.4.0
 networkx==2.3
 nltk==3.6.6
-notebook==6.4.1
+notebook==6.4.10
 numba==0.45.1
 numexpr==2.7.0
 numpy==1.21.0
