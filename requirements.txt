@@ -181,7 +181,7 @@ pycparser==2.19
 pycurl==7.43.0.2
 pydot==1.4.1
 Pygments==2.7.4
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.3.1
 pymongo==3.9.0
 pyOpenSSL==19.0.0
