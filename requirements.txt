@@ -75,7 +75,7 @@ GPUtil==1.4.0
 grpcio==1.22.0
 h5py==2.9.0
 heapdict==1.0.0
-horovod==0.16.4
+horovod==0.24.0
 hyperas==0.4.1
 hyperopt==0.1.2
 idna==2.8
